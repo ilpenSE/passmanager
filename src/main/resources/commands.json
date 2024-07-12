@@ -1,0 +1,30 @@
+{
+  "help": {
+    "usage": "help [command]",
+    "description": "Shows all or a specific command(s)"
+  },
+  "getpass": {
+    "usage": "getpass [username|email] [platform]",
+    "description": "Gets password from username or email"
+  },
+  "exit": {
+    "usage": "exit",
+    "description": "Exits the program"
+  },
+  "setpass": {
+    "usage": "setpass [username|email] [pwd] [platform]",
+    "description": "Sets password from username or email"
+  },
+  "register": {
+    "usage": "register [username] [email] [pwd] [platform]",
+    "description": "Registers a new account (If email will be empty, use *)"
+  },
+  "delete": {
+    "usage": "delete [username|email] [pwd] [platform]",
+    "description": "Deletes provided user"
+  },
+  "about": {
+    "usage": "about",
+    "description": "Shows information about this program"
+  }
+}
